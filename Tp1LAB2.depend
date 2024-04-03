@@ -1,0 +1,174 @@
+# depslib dependency file v1.0
+1684323304 source:c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\tp1lab2\main.cpp
+	<iostream>
+	<cstring>
+	<time.h>
+	<wchar.h>
+	<locale>
+	"Fecha.h"
+	"Persona.h"
+	"Musicos.h"
+	"Generos.h"
+	"Archivos.h"
+	"ArchivoMusicos.h"
+	"ArchivoGeneros.h"
+	"Reportes.h"
+
+1684187650 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\tp1lab2\fecha.h
+	<iostream>
+
+1684188046 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\tp1lab2\persona.h
+	<iostream>
+
+1684330029 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\tp1lab2\musicos.h
+	<iostream>
+
+1684329774 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\tp1lab2\archivomusicos.h
+
+1684327148 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\tp1lab2\archivogeneros.h
+	<iostream>
+
+1684186612 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\tp1lab2\reportes.h
+	<iostream>
+
+1684187780 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\tp1lab2\generos.h
+	<iostream>
+
+1684187645 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\tp1lab2\archivos.h
+	<iostream>
+
+1687435976 source:c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\main.cpp
+	<iostream>
+	<cstring>
+	<time.h>
+	<wchar.h>
+	<locale>
+	<string.h>
+	<stdio.h>
+	"Fecha.h"
+	"Instrumentos.h"
+	"Paises.h"
+	"FuncionesGlobales2.h"
+	"Generos.h"
+	"FuncionesGlobales.h"
+	"Persona.h"
+	"Musicos.h"
+	"ArchivoMusicos.h"
+	"ArchivoGeneros.h"
+	"ArchivosPaises.h"
+	"ArchivosInstrumentos.h"
+	"Archivos.h"
+	"Reportes.h"
+
+1689860561 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\fecha.h
+	<iostream>
+
+1684188046 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\persona.h
+	<iostream>
+
+1687291299 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\musicos.h
+	<iostream>
+
+1689719660 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\generos.h
+	<iostream>
+
+1687219241 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\archivos.h
+	<iostream>
+
+1689859856 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\archivomusicos.h
+
+1687290550 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\archivogeneros.h
+	<iostream>
+
+1689853914 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\reportes.h
+	<iostream>
+
+1689803365 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\archivospaises.h
+	<iostream>
+
+1689723648 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\archivosinstrumentos.h
+	<cstring>
+	<iostream>
+
+1689858049 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\instrumentos.h
+	<stdio.h>
+	<iostream>
+
+1687265843 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\paises.h
+	<iostream>
+
+1687283776 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\funciones.h
+	<iostream>
+
+1687293152 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\funcionesglobales.h
+	<iostream>
+
+1687293456 c:\users\cintia\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\funcionesglobales2.h
+	<iostream>
+
+1687435976 source:c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\main.cpp
+	<iostream>
+	<cstring>
+	<time.h>
+	<wchar.h>
+	<locale>
+	<string.h>
+	<stdio.h>
+	"Fecha.h"
+	"Instrumentos.h"
+	"Paises.h"
+	"FuncionesGlobales2.h"
+	"Generos.h"
+	"FuncionesGlobales.h"
+	"Persona.h"
+	"Musicos.h"
+	"ArchivoMusicos.h"
+	"ArchivoGeneros.h"
+	"ArchivosPaises.h"
+	"ArchivosInstrumentos.h"
+	"Archivos.h"
+	"Reportes.h"
+
+1689860561 c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\fecha.h
+	<iostream>
+
+1689858049 c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\instrumentos.h
+	<stdio.h>
+	<iostream>
+
+1687265843 c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\paises.h
+	<iostream>
+
+1687293456 c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\funcionesglobales2.h
+	<iostream>
+
+1689719660 c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\generos.h
+	<iostream>
+
+1687293152 c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\funcionesglobales.h
+	<iostream>
+
+1684188046 c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\persona.h
+	<iostream>
+
+1693405311 c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\musicos.h
+	<iostream>
+
+1694267240 c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\archivomusicos.h
+
+1687290550 c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\archivogeneros.h
+	<iostream>
+
+1689803365 c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\archivospaises.h
+	<iostream>
+
+1689723648 c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\archivosinstrumentos.h
+	<cstring>
+	<iostream>
+
+1687219241 c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\archivos.h
+	<iostream>
+
+1689853914 c:\users\usuario\desktop\tecnico en programacion utn\tercer cuatrimestre\laboratorio ii\martinez_cintia_lujan\reportes.h
+	<iostream>
+
